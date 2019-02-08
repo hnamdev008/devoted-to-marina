@@ -1,3 +1,6 @@
+Hi, Marina, Welcome to my project!
+I have developed this test project as required by YOU! I am looking forward to working with you!
+
 # DevotedToMarina
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
